@@ -14,4 +14,4 @@ To view the design specification click [here](https://raw.githubusercontent.com/
 - Bootstrap
 
 ### Preview
-Click [here](https://htmlpreview.github.io/?https://github.com/MartynM1982/Brown_Bears/blob/1ac0894718e29331f07b609dd55a2a46e1749bee/Brown_Bears.html)
+To preview the website click [here](https://htmlpreview.github.io/?https://github.com/MartynM1982/Brown_Bears/blob/1ac0894718e29331f07b609dd55a2a46e1749bee/Brown_Bears.html)
