@@ -1,7 +1,7 @@
 # Adhoc
 
 ### Introduction
-To create a responsive website for a company called Adhoc, who are an office administration website. Adhoc have provcided a design specification for the project, which can be found below.
+To create a responsive website for a company called Adhoc, an office administration website. Adhoc have provided a full design specification for the project, which can be found below.
 
 ### Design Specification
 
