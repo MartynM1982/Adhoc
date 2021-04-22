@@ -17,3 +17,4 @@ To view the design specification click [here](https://raw.githubusercontent.com/
 ### Preview
 To preview the website click [here](https://htmlpreview.github.io/?https://github.com/MartynM1982/Adhoc/blob/ce946f44b04e08e2013502261bf648caa96a8bd3/Adhoc.html)
 
+![image](https://user-images.githubusercontent.com/77343504/115696325-79284b00-a35a-11eb-8f3f-ae4be4a3e8e1.png)
