@@ -15,6 +15,6 @@ To view the design specification click [here](https://raw.githubusercontent.com/
 - [Bootstrap Documentation](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
 
 ### Preview
-<a id="raw-url" href="https://raw.githubusercontent.com/MartynM1982/Adhoc/master/Adhoc.html">Download FILE</a>
 
-![image](https://user-images.githubusercontent.com/77343504/115696325-79284b00-a35a-11eb-8f3f-ae4be4a3e8e1.png)
+![image](https://user-images.githubusercontent.com/77343504/115708238-a4656700-a367-11eb-8336-119975b1d7f2.png)
+
